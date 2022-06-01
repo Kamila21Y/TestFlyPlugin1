@@ -1,0 +1,10 @@
+name: TestFlyPlugin
+version: '${project.version}'
+main: com.github.kamila21y.testflyplugin.TestFlyPlugin
+api-version: 1.18
+authors:
+  - Kamila21Y
+description: TestFlyPlugin
+website: https://github.com/Kamila21Y
+commands:
+  fly:
